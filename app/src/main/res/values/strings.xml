@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobiliti</string>
+
+    <!--Vehicles Main Feed-->
+    <string name="subscription">Subscription</string>
+    <string name="fee">$%d</string>
+    <string name="mile">%d Mil.</string>
+    <string name="title_activity_vehicle_detail">VehicleDetail</string>
+
+    <!--Vehicles Detail-->
+    <string name="monthly">Monthly</string>
+    <string name="dealername">Dealer Name:</string>
+    <string name="dealeraddress">Dealer Address:</string>
+
+    <!--Shared Preferences-->
+    <string name="saved_json">savedjson</string>
+</resources>
